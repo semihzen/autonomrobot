@@ -1,0 +1,6 @@
+inflation_radius: 0.5    # Engel çevresindeki tampon alan
+obstacle_range: 3.0      # LIDAR sensörünün algılama mesafesi
+raytrace_range: 3.5      # LIDAR verisinin mesafe sınırı
+
+sensor_max_range: 10.0   # LIDAR'ın algılayacağı en uzak mesafe
+sensor_frame: laser      # LIDAR sensörünün frame adı

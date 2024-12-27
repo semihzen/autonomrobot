@@ -1,0 +1,2 @@
+my_launch_package:turtle_play
+-DCATKIN_DEVEL_PREFIX=/home/semihzenginoglu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/semihzenginoglu/catkin_ws/install -G Unix Makefiles
